@@ -1,0 +1,21 @@
+# Віртуальне середовище Python
+.venv/
+venv/
+ENV/
+env/
+
+# Тимчасовий кеш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Налаштування IDE та системи
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Кеш лінтерів та тестів
+.ruff_cache/
+.pytest_cache/

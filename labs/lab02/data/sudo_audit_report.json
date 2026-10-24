@@ -1,0 +1,94 @@
+{
+    "summary": {
+        "total_sudo_commands": 12,
+        "root_executions": 10,
+        "suspicious_commands_detected": 7
+    },
+    "suspicious_executions": [
+        {
+            "timestamp": "2026-09-27T09:20:00+03:00",
+            "user": "carol",
+            "tty": "pts/2",
+            "pwd": "/tmp",
+            "target_user": "root",
+            "command": "/usr/bin/chmod 777 /srv/share",
+            "matched_rule": "chmod 777"
+        },
+        {
+            "timestamp": "2026-09-27T09:30:00+03:00",
+            "user": "carol",
+            "tty": "pts/2",
+            "pwd": "/tmp",
+            "target_user": "root",
+            "command": "/usr/bin/nc -lvp 4444",
+            "matched_rule": "nc"
+        },
+        {
+            "timestamp": "2026-09-27T09:32:00+03:00",
+            "user": "carol",
+            "tty": "pts/2",
+            "pwd": "/tmp",
+            "target_user": "root",
+            "command": "/usr/bin/nmap -sS 10.0.0.0/24",
+            "matched_rule": "nmap"
+        },
+        {
+            "timestamp": "2026-09-27T10:00:00+03:00",
+            "user": "dave",
+            "tty": "pts/3",
+            "pwd": "/home/dave",
+            "target_user": "root",
+            "command": "/usr/bin/dd if=/dev/zero of=/tmp/test.img bs=1M count=10",
+            "matched_rule": "dd"
+        },
+        {
+            "timestamp": "2026-09-27T10:10:00+03:00",
+            "user": "dave",
+            "tty": "pts/3",
+            "pwd": "/etc",
+            "target_user": "root",
+            "command": "/usr/bin/vim /etc/shadow",
+            "matched_rule": "/etc/shadow"
+        },
+        {
+            "timestamp": "2026-09-27T12:00:00+03:00",
+            "user": "carol",
+            "tty": "pts/2",
+            "pwd": "/tmp",
+            "target_user": "root",
+            "command": "/usr/bin/chmod 777 /tmp/public",
+            "matched_rule": "chmod 777"
+        },
+        {
+            "timestamp": "2026-09-27T12:05:00+03:00",
+            "user": "carol",
+            "tty": "pts/2",
+            "pwd": "/tmp",
+            "target_user": "root",
+            "command": "/usr/bin/nc 203.0.113.10 9001",
+            "matched_rule": "nc"
+        }
+    ],
+    "user_statistics": {
+        "carol": {
+            "total_commands": 5,
+            "high_risk_commands": 5
+        },
+        "alice": {
+            "total_commands": 3,
+            "high_risk_commands": 0
+        },
+        "dave": {
+            "total_commands": 2,
+            "high_risk_commands": 2
+        },
+        "bob": {
+            "total_commands": 1,
+            "high_risk_commands": 0
+        },
+        "eve": {
+            "total_commands": 1,
+            "high_risk_commands": 0
+        }
+    }
+}

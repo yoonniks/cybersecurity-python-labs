@@ -1,0 +1,332 @@
+[
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-20 18:31:19",
+        "args": [
+            "alice_sec",
+            "QuantumPass99!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "bob_crypto",
+        "result": "failure",
+        "timestamp": "2026-09-20 18:31:19",
+        "args": [
+            "bob_crypto",
+            "WrongPassword!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "judy_admin",
+        "result": "success",
+        "timestamp": "2026-09-20 18:31:19",
+        "args": [
+            "judy_admin",
+            "AdminStrong#15"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-20 18:33:34",
+        "args": [
+            "alice_sec",
+            "QuantumPass99!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "bob_crypto",
+        "result": "failure",
+        "timestamp": "2026-09-20 18:33:34",
+        "args": [
+            "bob_crypto",
+            "WrongPassword!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "judy_admin",
+        "result": "success",
+        "timestamp": "2026-09-20 18:33:34",
+        "args": [
+            "judy_admin",
+            "AdminStrong#15"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-20 18:33:37",
+        "args": [
+            "alice_sec",
+            "QuantumPass99!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "bob_crypto",
+        "result": "failure",
+        "timestamp": "2026-09-20 18:33:37",
+        "args": [
+            "bob_crypto",
+            "WrongPassword!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "judy_admin",
+        "result": "success",
+        "timestamp": "2026-09-20 18:33:37",
+        "args": [
+            "judy_admin",
+            "AdminStrong#15"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-20 18:34:09",
+        "args": [
+            "alice_sec",
+            "QuantumPass99!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "bob_crypto",
+        "result": "failure",
+        "timestamp": "2026-09-20 18:34:09",
+        "args": [
+            "bob_crypto",
+            "WrongPassword!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "judy_admin",
+        "result": "success",
+        "timestamp": "2026-09-20 18:34:09",
+        "args": [
+            "judy_admin",
+            "AdminStrong#15"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-20 18:35:06",
+        "args": [
+            "alice_sec",
+            "QuantumPass99!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "bob_crypto",
+        "result": "failure",
+        "timestamp": "2026-09-20 18:35:06",
+        "args": [
+            "bob_crypto",
+            "WrongPassword!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "judy_admin",
+        "result": "success",
+        "timestamp": "2026-09-20 18:35:06",
+        "args": [
+            "judy_admin",
+            "AdminStrong#15"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-20 18:36:34",
+        "args": [
+            "alice_sec",
+            "QuantumPass99!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "bob_crypto",
+        "result": "failure",
+        "timestamp": "2026-09-20 18:36:34",
+        "args": [
+            "bob_crypto",
+            "WrongPassword!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "judy_admin",
+        "result": "success",
+        "timestamp": "2026-09-20 18:36:34",
+        "args": [
+            "judy_admin",
+            "AdminStrong#15"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-20 18:36:38",
+        "args": [
+            "alice_sec",
+            "QuantumPass99!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "bob_crypto",
+        "result": "failure",
+        "timestamp": "2026-09-20 18:36:38",
+        "args": [
+            "bob_crypto",
+            "WrongPassword!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "judy_admin",
+        "result": "success",
+        "timestamp": "2026-09-20 18:36:38",
+        "args": [
+            "judy_admin",
+            "AdminStrong#15"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-20 16:19:39",
+        "args": [
+            "alice_sec",
+            "QuantumPass99!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "bob_crypto",
+        "result": "failure",
+        "timestamp": "2026-09-20 16:19:39",
+        "args": [
+            "bob_crypto",
+            "WrongPassword!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "judy_admin",
+        "result": "success",
+        "timestamp": "2026-09-20 16:19:39",
+        "args": [
+            "judy_admin",
+            "AdminStrong#15"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-20 16:23:28",
+        "args": [
+            "alice_sec",
+            "QuantumPass99!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "bob_crypto",
+        "result": "failure",
+        "timestamp": "2026-09-20 16:23:28",
+        "args": [
+            "bob_crypto",
+            "WrongPassword!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "judy_admin",
+        "result": "success",
+        "timestamp": "2026-09-20 16:23:28",
+        "args": [
+            "judy_admin",
+            "AdminStrong#15"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-21 09:18:53",
+        "args": [
+            "alice_sec",
+            "QuantumPass99!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "bob_crypto",
+        "result": "failure",
+        "timestamp": "2026-09-21 09:18:53",
+        "args": [
+            "bob_crypto",
+            "WrongPassword!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "judy_admin",
+        "result": "success",
+        "timestamp": "2026-09-21 09:18:53",
+        "args": [
+            "judy_admin",
+            "AdminStrong#15"
+        ],
+        "kwargs": {}
+    }
+]
